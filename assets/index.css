@@ -1,7 +1,12 @@
 * {
     margin: 0;
     padding: 0;
+    text-decoration: none;
 }
 .navbar-logo {
     width: 100px;
+}
+a,a:hover,a:link,a:visited,a:focus,a:active {
+    color: black;
+    font-weight: bolder;
 }
